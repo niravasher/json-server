@@ -1,55 +1,11 @@
 {
-  "title": "Webinar Title",
-  "description": "<p>Webinar Description</p>",
-  "start_time": "2022-05-07T12:00:00+05:30",
-  "end_time": "2022-05-07T13:30:00+05:30",
-  "timezone": "Asia/Kolkata (GMT+05:30)",
-  "default_language": "en",
-  "is_test": true,
-  "video_assets": [
-    "f92b7f21-78f9-4644-aa54-fc5cb0a40347",
-    "51573855-a483-4da0-82a6-f963f203dca7"
-  ],
-  "slide_assets": [
-    "f4ff2982-31bb-4254-9a9e-bf406052ad0f"
-  ],
-  "resources": [
+  "posts": [
     {
-      "name": "Doc 1",
-      "key_or_url": "https://d6d4ismr40iw.cloudfront.net/wkXqgDyPR1a5BOjhJRwt_Goldcast_Django_Exercise.txt",
-      "s3hosted": true
+      "id": 1,
+      "title": "hello"
     }
   ],
-  "speakers": [
-    {
-      "user": {
-        "company": "Goldcast",
-        "description": "<p>Test Description</p>",
-        "email": "ankur@goldcast.io",
-        "first_name": "Ankur",
-        "last_name": "Garg",
-        "linkedin_url": "https://www.linkedin.com/in/ankur748/",
-        "profile_picture_url": null,
-        "title": "Mr",
-        "twitter_url": "https://twitter.com/"
-      }
-    }
-  ],
-  "public_chat_disabled": false,
-  "record_broadcasts": false,
-  "have_video_qna": true,
-  "have_text_qna": true,
-  "is_text_qna_moderated": false,
-  "enable_live_captions": false,
-  "enable_live_captions_translations": false,
-  "show_attendees": true,
-  "speaker_tab_visible": true,
-  "hide_watcher_count": true,
-  "show_onboarding": true,
-  "youtube_live_url": "",
-  "facebook_live_url": "",
-  "youtube_stream_key": "",
-  "facebook_stream_key": "",
-  "custom_stream_url": "",
-  "custom_stream_key": ""
+  "profile": {
+    "name": "typicode"
+  }
 }
