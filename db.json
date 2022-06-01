@@ -22,7 +22,7 @@
   ],
   "speakers": [
     {
-      user: {
+      "user": {
         "company": "Goldcast",
         "description": "<p>Test Description</p>",
         "email": "ankur@goldcast.io",
